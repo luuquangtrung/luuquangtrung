@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 luuquangtrung ✨ 
 
 <!--
 **luuquangtrung/luuquangtrung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😍 Lifetime learner, always curious about all scientific things, especially computer science and networking
+- 🌱 I'm a trilingual:  VN EN FR
+- 👯 I'm always open for research collaboration, see the summary of my research [here](https://luuquangtrung.github.io/research/)
