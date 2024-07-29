@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 😍 Lifetime learner, always curious about all scientific things, especially astrophysics, computer science, and networking
-- 🌱 I'm trilingual:  VN EN FR
-- 👯 I'm always open for research collaboration, see the summary of my research [here](https://luuquangtrung.github.io/research/)
-- ⚡ My favorite motto: *Ad meliora et ad maiora semper*
+- 🌱 Trilingual:  VN EN FR
+- 👯 Always open for research collaboration, see the summary of my research [here](https://luuquangtrung.github.io/research/)
+- ⚡ Favorite motto: *Ad meliora et ad maiora semper*
