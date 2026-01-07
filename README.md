@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 Trilingual:  VN EN FR
 -->
 
-- 😍 Lifetime learner, always curious about all scientific things, especially astrophysics, computer science, and networking
-- 🌱 Trilingual:  VN EN FR
-- 👯 Always open for research collaboration, see the summary of my research [here](https://luuquangtrung.github.io/research/)
-- ⚡ Favorite motto: *Ad meliora et ad maiora semper*
+- 😍 Maître de conférences à l'Université Paris-Saclay, France
+- ⚡ Motto: *Ad meliora et ad maiora semper*
