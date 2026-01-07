@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🌱 Trilingual:  VN EN FR
+- 🌱 Trilingual:  VN EN FR 😍
 -->
 
-- 😍 Maître de conférences à l'Université Paris-Saclay, France
+- 📫 Maître de conférences à l'Université Paris-Saclay, France
 - ⚡ Motto: *Ad meliora et ad maiora semper*
